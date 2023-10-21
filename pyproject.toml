@@ -16,6 +16,7 @@ notebook = "^5.7.5"
 jupyter = "^1.0.0"
 jupyterlab = "^4.0.7"
 nltk = "^3.8.1"
+sympy = "^1.12"
 
 
 
