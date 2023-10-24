@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "ms-toolsai.jupyter-keymap",
-        "ms-python.python"
+        "ms-python.python",
+        "mechatroner.rainbow-csv"
     ]
 }
