@@ -2,6 +2,12 @@
     "recommendations": [
         "ms-toolsai.jupyter-keymap",
         "ms-python.python",
-        "mechatroner.rainbow-csv"
+        "mechatroner.rainbow-csv",
+        "ziglang.vscode-zig",
+        "juliacomputing.juliahub",
+        "github.copilot",
+        "github.copilot-chat",
+        "eamodio.gitlens",
+        "ms-azuretools.vscode-docker",
     ]
 }
